@@ -9,11 +9,10 @@
 <a href="https://www.hackerrank.com/kunal_pawar_2191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal_pawar_2191" height="50" width="50" /></a>
 
 <h3 align="left">Performance Report:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyoyakp&show_icons=true&locale=en&layout=compact" alt="Kyoyakp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyoyakp&show_icons=true&locale=en&layout=compact" width =1000 height =100 alt="Kyoyakp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyoyakp&show_icons=true&locale=en" alt="Kyoyakp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoyakp&" alt="Kyoyakp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kyoyakp&show_icons=true&locale=en" width = 500 alt="Kyoyakp" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoyakp&" width = 350 alt="Kyoyakp" /></p>
 
 <!---
 Kyoyakp/Kyoyakp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
