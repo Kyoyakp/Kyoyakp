@@ -11,7 +11,7 @@
 <h3 align="left">Performance Report:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyoyakp&show_icons=true&locale=en&layout=compact" width =1000 height =100 alt="Kyoyakp" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kyoyakp&show_icons=true&locale=en" width = 500 alt="Kyoyakp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kyoyakp&show_icons=true&locale=en" width = 450 alt="Kyoyakp" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoyakp&" width = 350 alt="Kyoyakp" /></p>
 
 <!---
