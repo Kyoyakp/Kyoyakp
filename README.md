@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kunal Pawar. Currently pursuing btech in mechanical engineering.
+- 👋 Hi, I’m Kunal Pawar. Currently pursuing MTech in Artificial Intelligence from IITM.
 - 👀 I’m interested in learning almost anything.
 - 🌱 I’m currently learning python and working on tech like AI/ML.
 - 💞️ I’m looking to collaborate on any interesting and challenging project related to CS.
